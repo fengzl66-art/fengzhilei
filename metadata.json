@@ -1,0 +1,6 @@
+{
+  "name": "货架策略原型 (Shelf Strategy Prototype)",
+  "description": "一个用于识别图片并转化为可点击原型图的货架策略弹框应用，支持新增限制条件及弹出配置窗口。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
